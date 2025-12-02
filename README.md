@@ -12,7 +12,7 @@
 
 ## 🚀 LIVE DEMO
 Experience the power of AI Scriptwriting instantly:  
-👉 **[https://doodax.com](https://doodax.com)**
+👉 **[https://doodax.com](https://doodax.com/tools/ai-youtube-scriptwriter/index.html)**
 
 ---
 
