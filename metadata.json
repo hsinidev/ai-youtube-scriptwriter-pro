@@ -1,0 +1,5 @@
+{
+  "name": "AI YouTube Scriptwriter",
+  "description": "An application that takes a video title and outline, and uses AI to generate a fully structured, time-stamped video script with separate tracks for Narration and B-Roll/Visual Action.",
+  "requestFramePermissions": []
+}
